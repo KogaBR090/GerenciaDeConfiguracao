@@ -81,3 +81,16 @@
         color: #777;
         margin-top: 40px;
       }
+
+      button {
+        background-color: rgb(130, 130, 250);
+        padding: 10px 10px;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+      }
+
+      button:hover{
+        background-color: rgb(182, 182, 255);
+        transition: 1s;
+      }
